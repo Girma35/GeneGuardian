@@ -180,10 +180,13 @@ We're grateful to the open-source community, biology educators worldwide, and ev
 
 ## 📞 Contact & Connect
 
-**Project Maintainer: Girma Wakeyo**
+**Developer: Girma Wakeyo**
+
+*This is an open source project created to democratize genetics education and foster community-driven learning.*
 
 💻 **GitHub**: [https://github.com/Girma35](https://github.com/Girma35)  
 🔗 **LinkedIn**: [www.linkedin.com/in/girma-w-a16429263](https://www.linkedin.com/in/girma-w-a16429263)  
+🐦 **Twitter/X**: [@Girma880731631](https://twitter.com/Girma880731631)  
 📱 **Phone**: +252986859906  
 📧 **Email**: girmawakeyo@gmail.com  
 📢 **Telegram Group**: Join our community of bio/tech developers and students around Ethiopia  
